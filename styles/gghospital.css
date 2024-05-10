@@ -1,0 +1,196 @@
+header{
+    margin: 0px;
+}
+
+
+.fscardtitle{
+    font-size: 15px;
+}
+
+.fs-12{    
+    font-size: 12px;
+}
+.fs-15{
+    font-size: small;
+}
+.fs-20{
+    font-size: medium;
+}
+.viewallbutton{
+    font-size: 13px;
+}
+
+.logo{
+    height: 40px;
+}
+.logo1{
+    height: 55px;
+}
+
+.cardcontainer{
+    margin-top: -60px;
+    z-index: 2;
+
+}
+
+.banner{
+    background-image: url("../Assets/Group\ 243.png");
+    background-size: cover;
+    margin-left: 60px;
+
+}
+.textonimage{
+    
+    padding: 100px;
+    padding-top: 150px;
+    margin-bottom: 90px;
+}
+.ourdept{
+    width: 70%;
+}
+.btncustom{
+  font-size: small;
+  color: white;
+  background-color:#17c1a4;
+  border-color: #17c1a4;
+}
+.btncustom:hover{
+    background-color:#ffffff;
+    border-color: #000000;
+    color: black;
+  }
+
+.custombtn{
+    background-color:#17c1a4;
+    border-color: #17c1a4;
+    color: white;
+  }
+.custombtn:hover{
+    background-color:#ffffff;
+    border-color: #000000;
+    color: black;
+  }
+
+.ourdepartment{
+    margin-top: 150px;
+}
+
+/* .departmentborder{
+    width: 10%;
+} */
+
+.carouselheadings{
+    font-size: medium
+}
+
+.paragraph{
+    width: 80%;
+}
+.paragraph1{
+    width: 100%;
+}
+.whygg{
+    margin-top: 150px;
+    height: 480px;
+    background-color:#eaf2ff;
+    background-image: url("../Assets/Mask\ group.png");
+    background-size: cover;
+}
+
+.listwhygg{
+    margin: 110px;
+    margin-right: 70px;
+}
+
+.specialists{
+    margin-top: 100px;
+}
+
+.facilities{
+    margin-top: 100px;
+}
+
+.leftmain{
+width: 80%;
+}
+.rightmain{
+    width: 20%;
+
+}
+.leftinner{
+    margin-left: 425px;
+    width: fit-content;
+}
+
+.colcustom{
+    width: 30%;
+}
+
+.facilityimage{
+    padding: 0px;
+    width: 100%;
+}
+
+.youmaybeinterested{
+    border: 1px solid #eaf2ff;
+    background-color: #eaf2ff;
+    margin-top: 250px;
+    height: 650px;
+}
+
+.tobegoneup{
+    position: relative;
+    margin-top: -150px;
+}
+
+.subscribe{
+    margin-top: 100px;
+}
+.subscribeimage{
+    width: 100%;
+}
+
+.newsletter{
+background-image: url("../Assets/Mask\ group\ \(1\).png");
+background-size: cover;
+height: 100%;
+}
+.newsletterin{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+.subtext{
+
+    margin-left: 50px;
+    width: 200px;
+}
+
+.custom-input{
+    border: none;
+    border-bottom: 1px solid #ccc; /* Underline */
+    outline: none;
+    padding: 5px;
+    width: 200px;
+}
+/* .signup{
+    border: 1px solid black;
+    width: 300px;
+    border-bottom: 1.5px solid black;
+
+} */
+.footertext{
+    font-size: 10px;
+    width: 250px;
+}
+.address{
+    width: 95%;
+}
+.phonenumber{
+    padding-left: 30px;
+    width: 50%;
+}
+.mails{
+    width: 70%;
+}
